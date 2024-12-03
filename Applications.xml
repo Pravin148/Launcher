@@ -1,0 +1,6 @@
+<Applications>
+ <Application name="Brave" path="C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"/>
+ <Application name="GIT BASH" path="C:/Program Files/Git/git-bash.exe"/>
+ <Application name="Terminal" path="/usr/bin/gnome-terminal"/>
+ <Application name="sxr" path="er"/>
+</Applications>
